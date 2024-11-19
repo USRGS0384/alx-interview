@@ -6,8 +6,8 @@
 def rotate_2d_matrix(matrix):
     """
     Rotates a 2D matrix 90 degrees clockwise in place.
-    
-    :param matrix: A list of lists where each sublist represents a row of the matrix.
+    :param matrix: A list of lists where each sublist 
+    represents a row of the matrix.
     """
     n = len(matrix)
 
