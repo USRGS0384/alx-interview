@@ -78,3 +78,4 @@ def isWinner(x, nums):
     :return: name of the player that won the most rounds or None
     """
 
+pycodestyle 0-prime_game.py
